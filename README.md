@@ -1,0 +1,1 @@
+# traits-type-in-structs
